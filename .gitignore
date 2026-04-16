@@ -1,0 +1,17 @@
+# Visual Studio temporary and database files
+.vs/
+*.db
+*.pdb
+
+# Compiled binaries and build folders
+x64/
+Debug/
+Release/
+*.exe
+*.dll
+*.o
+*.obj
+
+# Optional: Ignore images if you don't want to upload test images
+# *.png
+# *.jpg
